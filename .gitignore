@@ -36,6 +36,7 @@ install_manifest.txt
 /Mod/
 /ZERO_CHECK.dir/
 /build/
+/FreeCADLibs_12.5.4_x64_VC17/
 /src/Tools/offlinedoc/localwiki/
 /src/Tools/offlinedoc/*.txt
 OpenSCAD_rc.py
